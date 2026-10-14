@@ -1,0 +1,48 @@
+Title: Winterliches Zusammenkommen
+
+----
+
+Start: 2024-05-09
+
+----
+
+End: 2024-05-17
+
+----
+
+Showpogram: true
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Winterliches","align":"left"},{"text":"Zusammen","align":"right"},{"text":"Kommen","align":"left"}]},"id":"10b8887b-2ef2-425b-b4fa-994cda6985cb","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: lala
+
+----
+
+Category: Test
+
+----
+
+Description:
+
+Wir wollen die Bedürfnissaison 2022 mit euch beenden und die Baustellensaison für die nächsten 7 Monate eröffnen. Seid herzlich eingeladen zu Punsch, Keksen, Manderinen, Glühwein, Musik,  Webseitenrelease und co. und hängt zum letzen Mal dieses Jahr mit uns in und vor der Toilette bevor sie dann 2023 in neuem Glanz erscheint.
+
+Wann: Sonntag, 11.Dezember 15.00 Uhr 
+Wo: Merseburger Straße 138
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- photo_2022-10-28-17.47.17.jpeg
+
+----
+
+Date: 2024-05-19

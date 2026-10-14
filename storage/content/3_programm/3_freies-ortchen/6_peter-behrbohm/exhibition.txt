@@ -1,0 +1,48 @@
+Title: Peter Behrbohm
+
+----
+
+Start: 2023-10-01
+
+----
+
+End: 2023-10-22
+
+----
+
+Color: #00A8FF
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Peter","align":"left"},{"text":"Behrbohm","align":"left"}]},"id":"ee5e073f-2c09-45ee-a19b-7dd1fb852ea4","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Submarines
+
+----
+
+Category: Installation
+
+----
+
+Description:
+
+Die Stadt ist übersäht mit grauen Kästen, Litfaßsäulen, Rohren, Antennen und vergitterten Öffnungen, die unter dem Deckmantel urbaner Infrastrukturen wie Pilze auf einem undurchsichtigen Untergrund wachsen.
+
+In seiner Installation "Submarines" entwirft Peter Behrbohm ein immersives Narrativ, das die Besucher*innen zu einer Entdeckungsreise in den Untergrund einlädt. Wie sich herausstellt, scheinen Gullydeckel, Poller, Fundamentreste, Kioske, Lüftungsschächte, Trafohäusschen etc. längst wider Erwarten zusammenzugehören. Die alltäglichen Teile der Stadt dienen lediglich als getarnte Fühler, Schnorchel oder Zugänge ­in eine dystopische Parallelwelt. Vor den Augen der Öffentlichkeit ist im Untergrund ein System aus Angsträumen gewachsen, das jenen als Rückzugsort dient, die den nervösen Zeiten zu entfliehen versuchen. Welchen Plan verfolgt man im Untergrund? Stehen die Räume miteinander im Kontakt? Ist das Bedürfnis gar Teil des Netzwerks?
+
+Peter Behrbohm, Jahrgang 1987, nutzt Interventionen im öffentlichen Raum als gezielte Irritationen, um Routinen zu hinterfragen und Möglichkeiten eines alternativen Zusammenlebens aufzuzeigen.
+
+www.instagram.com/peter_behrbohm/
+www.peterbehrbohm.net
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- tiefkeller.jpg

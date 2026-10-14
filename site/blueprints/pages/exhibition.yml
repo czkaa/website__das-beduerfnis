@@ -1,0 +1,53 @@
+title: exhibition
+
+columns:
+  - width: 1/3
+    fields:
+      start:
+        label: Beginn
+        type: date
+        display: DD.MM.YYYY
+      end:
+        label: Ende
+        type: date
+        display: DD.MM.YYYY
+      color:
+        label: Farbe
+        type: color
+      isEvent:
+        label: Veranstaltung, nicht Ausstellung?
+        type: toggle
+  - width: 2/3
+    fields:
+      headlineBlocks:
+        type: blocks
+        max: 1
+        fieldsets:
+          - customHeadline
+        require: true
+      subtitle:
+        label: Untertitel
+        type: text
+      category:
+        label: Kategorie
+        type: text
+      description:
+        type: textarea
+        buttons:
+          - link
+        size: medium
+      isLeft:
+        label: Bildposition
+        type: select
+        search: false
+        default: true
+        empty: false
+        options:
+          true: links
+          false: rechts
+      gallery:
+        label: Bilder
+        type: files
+        layout: cards
+        min: 1
+        max: 2

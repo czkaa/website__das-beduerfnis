@@ -1,0 +1,14 @@
+title: Veranstaltungen
+
+options:
+  changeStatus: false
+
+sections:
+  events:
+    type: pages
+    headline: Veranstaltungen
+    parent: kirby.page("events")
+    text: "{{ page.date.toDate('d. M Y') }}: {{ page.title }}"
+    template: event
+    empty: No pages yet
+    sortBy: date desc

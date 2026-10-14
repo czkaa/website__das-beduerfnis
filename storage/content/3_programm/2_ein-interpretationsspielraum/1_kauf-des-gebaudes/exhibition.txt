@@ -1,0 +1,43 @@
+Title: Kauf des Gebäudes
+
+----
+
+Start: 2021-04-24
+
+----
+
+End: 2021-04-24
+
+----
+
+Color: #00FF63
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Kauf des","align":"left"},{"text":"Geb\u00e4udes","align":"left"}]},"id":"4691af1a-a709-467b-b721-d6487070e2c4","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: 
+
+----
+
+Category: 
+
+----
+
+Description: Durch unser erfolgreiches Crowdfunding und andere zahlreiche Spenden, war es am 24. April möglich, den Kaufvertrag für Bedürfnisanstalt zu unterzeichnen!
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- kaufvertrag_rgb.jpg
+
+----
+
+Headline: 

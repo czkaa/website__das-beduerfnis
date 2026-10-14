@@ -1,0 +1,43 @@
+Title: Baustelle
+
+----
+
+Start: 2023-01-01
+
+----
+
+End: 2023-05-31
+
+----
+
+Color: #004BFF
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Baustelle","align":"left"}]},"id":"f97c85d8-8e60-4a4c-b38c-e7fb618d0da9","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: 
+
+----
+
+Category: Die Bedürfnisanstalt wird aktuell denkmalgerecht saniert
+
+----
+
+Description:
+
+Nach dem Ende der letztjährigen Ausstellungssaison im November 2022 wurde mit den Baumaßnahmen zur denkmalgerechten Sanierung der ehemaligen Bedürfnisanstalt begonnen. Der Bauausführung vorausgegangen waren die Beantragung und Erteilung der Baugenehmigung und denkmalrechtliche Genehmigung, sowie die Anfertigung eines restauratorischen Gutachtens mit Befunduntersuchungen, das als Grundlage für Planung herangezogen wurde. Wichtigstes Ziel der Sanierungsmaßnahme ist die statisch-konstruktive Sicherung des Gebäudes und die denkmalgerechte und substanzschonende Überarbeitung bzw. Neugestaltung der einzelnen Bauelemente. 
+Bis zum Juni 2023 soll die denkmalgerechte und zugleich  moderne Sanierung abgeschlossen sein. Das erste Mal werden Ausstellungen und sonstige Veranstaltungen nicht mehr hinter einer mit einer  Pressspanplatte verschlossenen Tür zu sehen sein, sondern auch von Außen durch eine Glasfront auch neben den Öffnungszeiten der Öffentlichkeit Einblick gewähren.
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- photo_2023-03-30-19.27.05.jpeg
+- photo_2023-03-30-19.27.01.jpeg

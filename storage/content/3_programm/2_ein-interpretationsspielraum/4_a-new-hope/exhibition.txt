@@ -1,0 +1,50 @@
+Title: a new hope
+
+----
+
+Start: 2021-06-20
+
+----
+
+End: 2021-06-21
+
+----
+
+Color: #FF00E8
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"a new hope","align":"left"}]},"id":"996b1308-ae8a-48c5-a192-970667c31049","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: the grand opening 3/3
+
+----
+
+Category: live Musik
+
+----
+
+Description: Diesen Sonntag spielt »a new hope« live im Bedürfnis. Kommt vorbei und feiert mit uns die letzte Veranstaltung des großen Openings!
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- opppppp.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: a new
+  position: left
+- 
+  textcontent: hope
+  position: left

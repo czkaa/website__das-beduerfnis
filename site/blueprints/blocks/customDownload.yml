@@ -1,0 +1,10 @@
+name: Download
+
+fields:
+  download:
+    label: Downloads
+    type: files
+    max: 1
+  title:
+    label: Titel
+    type: text

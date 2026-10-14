@@ -1,0 +1,48 @@
+Title: Recht auf Stadt
+
+----
+
+Start: 2023-09-03
+
+----
+
+End: 2023-09-24
+
+----
+
+Color: #FFA200
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Recht","align":"left"},{"text":"auf Stadt","align":"left"}]},"id":"6c065ad2-a9b6-45a5-81c5-8296a9d38c94","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Stadt für alle?
+
+----
+
+Category: Partizipativer  Nachbarschaftstreff
+
+----
+
+Description:
+
+Wohnungsknappheit, steigende Mieten, fehlende Freiräume: Die Initiative Recht auf Stadt verwandelt das Bedürfnis in einen offenen Nachbarschaftstreff und lädt zum Mitmachen ein. In kostenfreien Veranstaltungen, Vorträgen und Workshops sollen aktuelle Probleme von Mieter*innen gesammelt und nach solidarischen Lösungen gesucht werden. Zusammen entsteht ein Experimentierfeld, das allen Interessierten offen steht. 
+Gibt es ein Recht auf Stadt? Was macht gutes Zusammenleben aus? Wie können Kunst und Kultur dazu beitragen? 
+Bringt eure Themen und Visionen ein – nur gemeinsam können wir eine lebenswertere Zukunft für alle gestalten!
+
+Recht auf Stadt setzt sich seit 2021 für eine solidarische, soziale und nachhaltige Stadtentwicklung und Mietgerechtigkeit in Halle ein.
+
+instagram: recht_auf_stadt_halle 
+www.rechtaufstadthalle.noblogs.org
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- img-2690.jpeg

@@ -1,0 +1,56 @@
+Title: Moritz Zeller
+
+----
+
+Start: 2021-07-01
+
+----
+
+End: 2021-07-18
+
+----
+
+Color: #F9FF00
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Moritz","align":"left"},{"text":"Keller","align":"left"}]},"id":"18b293db-abfc-4827-b263-bf3e57965238","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: AN SCHLUSS
+
+----
+
+Category: Fotografie und Perfomance
+
+----
+
+Description:
+
+Ein Anschluss(-gleis) ist ein Schienenweg zur Erschließung eines Geländes oder Gebäudes, das selbst nicht zur Eisenbahninfrastruktur gehört, durch Eisenbahngleise zum Gütertransport.
+In einem performativen Akt geht Moritz Zeller die Verläufe der ehemaligen Anschlussgleise im 
+Stadtraum von Leipzig ab und markiert sie mit einem eigens dafür konstruierten Markierwagen. 
+Eine Geste, diese industrielle Struktur, die das Stadtbild Leipzigs nachhaltig geprägt hat, durch die erneute Überschreibung partiell sichtbar zu machen.
+Foto: Moritz Zeller
+
+----
+
+Isleft: true
+
+----
+
+Gallery:
+
+- moritz-zeller_an-schluss.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Moritz
+  position: left
+- 
+  textcontent: Zeller
+  position: center

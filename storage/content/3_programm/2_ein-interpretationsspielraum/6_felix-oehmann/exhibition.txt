@@ -1,0 +1,54 @@
+Title: Felix Oehmann
+
+----
+
+Start: 2021-08-05
+
+----
+
+End: 2021-08-22
+
+----
+
+Color: #F90000
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Felix","align":"left"},{"text":"Oehmann","align":"left"}]},"id":"52245e21-32b6-4364-9bb9-a9147ac21c8e","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Snacks 2012 – 2021
+
+----
+
+Category: Installation und Skulptur
+
+----
+
+Description:
+
+Sammlung Simonov proudly presents:
+»Snacks 2012 – 2021« a tight selection of sculptures by Felix Oehmann
+Foto by Felix Oehmann
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- tumblr_nyn6blvrti1tunuxao1_500.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: 'Felix '
+  position: left
+- 
+  textcontent: Oehmann
+  position: left

@@ -1,0 +1,49 @@
+Title: Mona Freudenreich
+
+----
+
+Start: 2023-11-05
+
+----
+
+End: 2023-11-26
+
+----
+
+Color: #FFE800
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Mona","align":"left"},{"text":"Freudenreich","align":"left"}]},"id":"8c1bb8f2-8ec0-4a83-8042-93b0d5387b44","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Big Mother
+
+----
+
+Category: Installation
+
+----
+
+Description:
+
+Tierschutz durch Technologie?
+Mona Freudenreich verhandelt in ihrer Videoinstallation "Big Mother" das Potential des Einsatzes digitaler Prothesen für ökologische Zwecke.
+Düstere Luftaufnahmen von Wärmebildkameras, deren Ästhetik an Überwachungs- und Kriegsszenarien erinnert, werden mit detaillierten Bleistiftzeichnungen von Rehkitzen auf weißem Seidenpapier kontrastiert. Erst auf den zweiten Blick erschließen sich die Zusammenhänge: Die Aufnahmen dokumentieren Rehkitzrettungen, bei denen die Jungtiere im hohen Gras mit Hilfe von Drohnen geortet und durch Helfer:innen vor dem Mähtod bewahrt werden.
+
+Bietet der Einsatz neuer Technologien Lösungen für Probleme des Umwelt- und Artenschutzes? Gibt es Alternativen? Wo liegen die eigentlichen Wurzeln der Konflikte zwischen Mensch und Natur?
+
+Mona Freudenreich, geboren 1991, studierte Freie Kunst sowie Religionswissenschaft und ist Promovendin an der HFBK Hamburg. Sie lebt und arbeitet in Berlin.
+info@monafreudenreich.de
+www.monafreudenreich.de
+
+----
+
+Isleft: true
+
+----
+
+Gallery:
+
+- big_mother_still_3.png

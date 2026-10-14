@@ -1,0 +1,77 @@
+Title: Das Bedürfnis
+
+----
+
+Logotype:
+
+- wortmarke.svg
+
+----
+
+Social:
+
+- 
+  icon:
+    - insta.svg
+  type: link
+  url: >
+    https://www.instagram.com/das_beduerfnis/
+  mail: ""
+- 
+  icon:
+    - facebook.svg
+  type: link
+  url: >
+    https://m.facebook.com/Das_beduerfnis-105501454761388/
+  mail: beduerfnisanstalt@posteo.de
+- 
+  icon:
+    - mail.svg
+  type: mail
+  url: ""
+  mail: beduerfnisanstalt@posteo.de
+
+----
+
+Description: Das Bedürfnis e.V. ist ein gemeinnütziger Kunst- und Kulturverein in Halle (Saale). Wir sind ein gemischter Haufen und haben es  uns zur Aufgabe gemacht, ungenutzten städtischen Raum neu zu nutzen.
+
+----
+
+Thumbnail: 
+
+----
+
+Times: Fr bis So von 15 — 18 Uhr geöffnet
+
+----
+
+Address:
+
+Merseburger Str 138
+06110 Halle (Saale)
+
+----
+
+Placeholder: Aktuell findet keine Ausstellung statt.
+
+----
+
+Mail: karen.czock@bsbkoeln.de
+
+----
+
+Sm:
+
+- 
+  url: https://www.instagram.com/
+  icon:
+    - >
+      bildschirmfoto-2022-03-19-um-17.06.02.png
+
+----
+
+Facebook: https://www.instagram.com/
+
+----
+
+Instagram: https://www.instagram.com/

@@ -1,0 +1,46 @@
+Title: Luisa Keintzel Copy
+
+----
+
+Start: 2024-05-19
+
+----
+
+End: 2024-05-21
+
+----
+
+Color: #FF0000
+
+----
+
+Isevent: true
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Luisa ","align":"right"},{"text":"Keintzel","align":"left"}]},"id":"b7af6f35-fb99-4e35-ab49-ead0e24b5dd3","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Me ei kuolla  koskaan. –  Wir werden  niemals sterben.
+
+----
+
+Category: Fotografie
+
+----
+
+Description:
+
+Die gezeigte Fotoreihe ist ein Einblick in den jetzigen Zustand und Charakter Ost Kareliens. Dieser ist geprägt von schrumpfenden Einwohnerzahlen, der Nähe zur russischen Grenze und dem Gefühl von stehen gebliebener Zeit.
+Parallel gibt es eine Erzählebene aus der Vergangenheit, aber auch von Begegnungen aus dem Jetzt in Form von Text.
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- test.png

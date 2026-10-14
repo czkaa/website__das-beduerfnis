@@ -1,0 +1,21 @@
+name: Highlight
+
+fields:
+  textTop:
+    label: Text Oben
+    type: textarea
+    size: small
+  textCenter:
+    label: Text Mitte
+    type: text
+  textBottom:
+    label: Text Unten
+    type: textarea
+    size: small
+  animate:
+    label: Animation
+    type: select
+    type: toggle
+    text:
+      - "nein"
+      - "ja"

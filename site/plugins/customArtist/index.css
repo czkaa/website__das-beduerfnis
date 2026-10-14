@@ -1,0 +1,23 @@
+.k-block-type-customArtist {
+  padding: 0;
+  cursor: pointer;
+}
+
+.k-block-type-customArtist .headline {
+    padding: 10px;
+}
+
+.k-block-type-customArtist span {
+    display: block;
+    font-size: 60px;
+    line-height: 1;
+}
+
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}

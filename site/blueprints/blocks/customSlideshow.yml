@@ -1,0 +1,7 @@
+name: Slideshow
+
+fields:
+  customSlideshow:
+    label: Bilder
+    type: files
+    layout: cards

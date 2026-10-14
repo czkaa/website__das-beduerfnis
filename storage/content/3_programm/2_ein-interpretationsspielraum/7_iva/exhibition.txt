@@ -1,0 +1,50 @@
+Title: Iva
+
+----
+
+Start: 2021-08-26
+
+----
+
+End: 2021-09-12
+
+----
+
+Color: #2D83EE
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Iva","align":"left"}]},"id":"a26e344d-95bb-4ee3-b791-90d76cdd1895","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: haltbar bis 51.462, 11.983
+
+----
+
+Category: Performance
+
+----
+
+Description: Hier geht es um Dreck. Um alles was da ist und gewesen ist. In dieser Arbeit versuche ich die Bewahrung von Gefühlen zu untersuchen und anzusammeln. Die Geborgenheit, die ich aus dem Bauch kenne, der Sinn, dem die Tat folgt. Diese Objekt stellt den Beweis, die Spur der vergangenen Wahrheit, der Tat oder des Raumes dar. Eine Performance. „Das Thema projeziert den sicheren Ort und die Zeit. Der Raum im Bauch wo ich war, wie alle anderen. Im Wasser. Die Teilchen ergänzen die Spuren im Raum, welche im Laufe der Performance eingesammelt wurden. Der Verlauf der Tat außerhalb des Objekts. Es ist ein Relikt, eine Aufbewahrung, eine Lagerhaltung.“ www.ivasvoboda.com
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- iv2_rgb.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Iva
+  position: left
+- 
+  textcontent: Svoboda
+  position: left

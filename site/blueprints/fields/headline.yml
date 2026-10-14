@@ -1,0 +1,19 @@
+label: Headline
+type: structure
+fields:
+  textContent:
+    label: Text
+    type: text
+    width: 2/3
+    help: Füge '---' für Einzüge ein und '&;shy' für Umbrüche
+  position:
+    label: Position
+    width: 1/3
+    type: select
+    search: false
+    default: left
+    empty: false
+    options:
+      left: links
+      right: rechts
+      center: zentriert

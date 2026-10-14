@@ -1,0 +1,10 @@
+.k-block-type-customCurrentEvents {
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.k-block-type-customCurrentEvents > div {
+  border: 4px solid black;
+  padding: 50px;
+  text-align: center;
+}

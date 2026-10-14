@@ -1,0 +1,53 @@
+Title: Hilde Pank
+
+----
+
+Start: 2021-11-18
+
+----
+
+End: 2021-12-04
+
+----
+
+Color: #FF0000
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Hilde","align":"left"},{"text":"Pank","align":"left"}]},"id":"ededd5ac-b0ef-4104-9b7c-e9aa01ce9ac2","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Things + Kings
+
+----
+
+Category: Fotografie
+
+----
+
+Description:
+
+Photographic exhibition + presentation of a photobook. 4 month in Southeastasia. Searching for aesthetic phenomena. Where do I begin? Aesthetics. Unaesthetics. Globalized aestheticization. Plastic chairs, brooms, colours, shapes and everywhere portraits of the King. I am trying to create something open, experimental, constellative – looking for different forms and their relation to each other. What comes out is an unfinished story of seeking things, finding kings and hiding things.
+Foto by Hilde Pank
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- dscf4035.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Hilde
+  position: left
+- 
+  textcontent: Pank
+  position: left

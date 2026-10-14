@@ -1,0 +1,48 @@
+{
+  "name": "kirby-vue3-starterkit",
+  "version": "3.2.0",
+  "start": "cross-env TAILWIND_MODE=watch craco start",
+  "scripts": {
+    "kirby": "env-cmd --use-shell \"php -S \\$KIRBY_DEV_HOSTNAME:\\$KIRBY_DEV_PORT -t public server.php\"",
+    "dev": "shx touch src/.lock && concurrently \"npm:kirby\" \"vite\"",
+    "build": "shx rm -f src/.lock && vite build && node scripts/buildServiceWorker.js",
+    "lint": "eslint \"src/**/*.{js,vue}\"",
+    "lint:fix": "npm run lint -- --fix",
+    "cleanup": "prettier --write \"src/**/*.{js,vue}\""
+  },
+  "dependencies": {
+    "@vimeo/player": "^2.16.1",
+    "jquery": "^3.6.1",
+    "lazysizes": "^5.3.2",
+    "lodash": "^4.17.21",
+    "lodash.debounce": "^4.0.8",
+    "lodash.throttle": "^4.1.1",
+    "smoothscroll-polyfill": "^0.4.4",
+    "vue": "^3.1.5",
+    "vue-cookie-accept-decline": "^6.1.0",
+    "vue-lazysizes": "^1.0.5",
+    "vue-router": "^4.0.10",
+    "vue3-lazyload": "^0.3.0",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.4.0",
+    "@vue/compiler-sfc": "^3.2.3",
+    "autoprefixer": "^10.3.1",
+    "concurrently": "^6.2.1",
+    "dotenv": "^10.0.0",
+    "env-cmd": "^10.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-jsdoc": "^36.0.7",
+    "eslint-plugin-vue": "^7.16.0",
+    "postcss": "^8.3.6",
+    "prettier": "2.3.2",
+    "sass": "^1.38.0",
+    "sass-loader": "^12.1.0",
+    "shx": "^0.3.3",
+    "tailwindcss": "^2.2.7",
+    "unplugin-vue-components": "^0.18.5",
+    "vite": "^2.5.0",
+    "vite-plugin-style-import": "^1.1.1"
+  }
+}

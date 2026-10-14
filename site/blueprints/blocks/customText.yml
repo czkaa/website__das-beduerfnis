@@ -1,0 +1,39 @@
+name: Text
+
+fields:
+  text:
+    type: textarea
+    size: medium
+    buttons:
+      - italic
+      - headlines
+      - link
+      - email
+      - ol
+
+  size:
+    type: select
+    label: Text Size
+    empty: false
+    default: sm
+    options:
+      md: Medium
+      sm: Small
+
+  columns:
+    label: Spalten
+    type: select
+    empty: false
+    default: one
+    options:
+      one: einspaltig
+      three: dreispaltig
+
+  info:
+    label: Zusätzliches Markdown
+    type: info
+    text: |
+      Geschützer Zeilenumbruch für Wörter, die zusammen stehen sollen:
+      `&nbsp;`
+      Unterstreichung: 
+      `<u>[text]</u>`

@@ -1,0 +1,16 @@
+title: Programm
+
+options:
+  changeStatus: false
+
+columns:
+  - width: 1/1
+    sections:
+      years:
+        type: pages
+        headline: Unterseiten
+        parent: kirby.page("programm")
+        text: "{{ page.date.toDate('Y') }}: {{ page.title }}"
+        template: year
+        empty: No pages yet
+        sortBy: date desc

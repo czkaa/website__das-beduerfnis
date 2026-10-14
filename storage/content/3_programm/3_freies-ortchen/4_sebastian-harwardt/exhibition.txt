@@ -1,0 +1,47 @@
+Title: Sebastian Harwardt
+
+----
+
+Start: 2023-06-11
+
+----
+
+End: 2023-07-02
+
+----
+
+Color: #FF0000
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Sebastian ","align":"left"},{"text":"Harwardt","align":"right"}]},"id":"fa70807d-26e1-431f-a72b-ea13f2b82c1e","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Beat
+
+----
+
+Category: Zeichnung und Collage
+
+----
+
+Description:
+
+Eingebettet in eine begehbare Rauminstallation, in der die Grenzen zwischen privat und öffentlich, zwischen Stadt- und Innenraum verschwimmen, präsentiert Sebastian Harwardt eine thematische Auswahl aktueller Gemälde und Zeichnungen. Die analogen und digitalen Collagen bestechen durch ihre subtile Ambivalenz: Pittoreske Stadt- und Landschaftsansichten, von Verfall und menschlichen Eingriffen gekennzeichnet, changieren zwischen detailgetreuer Wiedergabe und künstlerischer Verfälschung. Kontraststarke Kolorierung wechselt ins Schwarzweiße. Topografische Genauigkeit vermischt sich mit perspektivischer Verzerrung und kalkulierten Trugschlüssen.
+
+Sebastian Harwardt, geboren 1982 in Stendal, studierte an der Burg Giebichenstein Kunsthochschule. Er lebt und arbeitet in Halle (Saale). 
+
+instagram: sebastianharwardt
+www.sebastianharwardt.de
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- >
+  potemkinsches-dorf-ii-2022-.-digitale-collage.-29-7-x-42-cm-ausschnitt.jpg

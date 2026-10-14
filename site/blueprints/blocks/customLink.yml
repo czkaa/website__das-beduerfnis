@@ -1,0 +1,9 @@
+name: Internal Link
+
+fields:
+  link:
+    label: Select Page
+    type: pages
+    multiple: false
+  text:
+    type: text

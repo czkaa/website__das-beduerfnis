@@ -1,0 +1,9 @@
+.k-block-type-customImages {
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.k-block-type-customImages img{
+  width: 100%;
+  margin-bottom: 10px;
+}

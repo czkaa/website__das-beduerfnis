@@ -1,0 +1,47 @@
+Title: the grand opening
+
+----
+
+Start: 2021-06-05
+
+----
+
+End: 2021-06-06
+
+----
+
+Color: #FF00E8
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"the grand opening","align":"left"}]},"id":"4349c169-234c-4f86-a8cd-3f7b17cae8ba","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: 
+
+----
+
+Category: 
+
+----
+
+Description: Wenige Tage nach unserem Vereinsgeburtstag starten wir mit »Brot und Salz« und weihen damit das Bedürfnis ein. Es wird keine öffentliche Veranstaltung sein, aber kommt vorbei, ohne zu verweilen, mit Abstand und Maske und holt Euch eure Bedürfnis Stulle!
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- greatopeningdscf2085_rgb.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Brot und Salz
+  position: left

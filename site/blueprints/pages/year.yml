@@ -1,0 +1,29 @@
+title: Jahresprogramm
+
+columns:
+  - width: 1/1
+    fields:
+      year:
+        type: number
+        required: true
+        min: 2020
+        max: 3000
+        default: 2020
+        step: year
+      subheading:
+        type: textarea
+        size: extra small
+        buttons: false
+      description:
+        type: textarea
+        size: medium
+        buttons: links
+  - width: 1/1
+    sections:
+      exhibitions:
+        type: pages
+        headline: Ausstellungen und Veranstaltungen
+        text: "{{ page.start.toDate('d. M') }} – {{ page.end.toDate('d. M') }}: {{ page.title }}"
+        template: exhibition
+        empty: No pages yet
+        sortBy: date asc

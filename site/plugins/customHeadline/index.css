@@ -1,0 +1,30 @@
+.k-block-type-customHeadline {
+  padding: 0;
+  cursor: pointer;
+}
+
+.k-block-type-customHeadline .headline {
+    padding: 10px;
+}
+
+.k-block-type-customHeadline span {
+    display: block;
+}
+
+.md {
+  font-size: 30px;
+  line-height: 1;
+}
+
+.lg {
+  font-size: 60px;
+  line-height: 1;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}

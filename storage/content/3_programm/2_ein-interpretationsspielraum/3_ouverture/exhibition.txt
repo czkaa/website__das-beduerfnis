@@ -1,0 +1,47 @@
+Title: Ouvertüre
+
+----
+
+Start: 2021-06-13
+
+----
+
+End: 2021-06-14
+
+----
+
+Color: #FF00D6
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Ouvert\u00fcre","align":"left"}]},"id":"570de27d-0f58-49fa-8f5f-7124d5468784","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: the grand opening 2/3
+
+----
+
+Category: Wort, Bild, Ton
+
+----
+
+Description: Wir laden Passant*innen ein zu einer Lesung, untermalt mit Live-Illustration und Musik von den Plattentellern. Kommt vorbei, verweilt.
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- openingg.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Ouvertüre
+  position: left

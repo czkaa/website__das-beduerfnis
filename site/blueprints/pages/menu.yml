@@ -1,0 +1,16 @@
+title:  menu
+
+options:
+  changeStatus: false
+  changeTitle: false
+
+columns:
+  - width: 1/1
+    sections:
+      pages:
+        headline: Unterseiten
+        type: pages
+        parent: page
+        text: "{{ page.title }}"
+        template: columns
+        empty: No pages yet

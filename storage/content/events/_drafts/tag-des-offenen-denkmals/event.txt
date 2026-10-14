@@ -1,0 +1,27 @@
+Title: Tag des offenen Denkmals
+
+----
+
+Headline:
+
+- 
+  textcontent: Tag des offenen Denkmals
+  position: left
+
+----
+
+Subtitle: 
+
+----
+
+Date: 2022-09-11
+
+----
+
+Gallery:
+
+- bed_pers.jpg
+
+----
+
+Description: Am 11. September findet der Tag des offenen Denkmals statt. Auch die ehemalige Bedürfnisanstalt, das kleinste Baudenkmal der Stadt Halle(Saale) wird ihre Türen öffnen. Panktastique untermalt die Veranstaltung musikalisch und es wird Kuchen geben. Außerdem könnt Ihr Euch die Aktuelle Kunstinstallation 'soft objects' von Daniela Trabold ansehen.

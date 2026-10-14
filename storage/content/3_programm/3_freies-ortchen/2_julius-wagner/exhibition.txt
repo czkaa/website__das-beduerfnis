@@ -1,0 +1,47 @@
+Title: Julius Wagner
+
+----
+
+Start: 2023-07-09
+
+----
+
+End: 2023-07-30
+
+----
+
+Color: #FAFF00
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Julius","align":"left"},{"text":"Wagner","align":"left"}]},"id":"cb255820-9e3e-4d3f-ae60-ba0ec1b7e945","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Refugium
+
+----
+
+Category: Zeichnung und Malerei
+
+----
+
+Description:
+
+Safe Space, Freiraum oder Gefängnis?
+Changierend zwischen Sicherheit und Isolation, wecken Refugien vielfältige Assoziationen. In seiner gleichnamigen Ausstellung nähert sich Julius Wagner dem Refugium mit kompositorischen und szenografischen Mitteln. Raum, Flächen und Linien der präsentierten Zeichnungen und Malereien dienen als Werkzeuge einer intensiven Auseinandersetzung mit Begrenzt- und Offenheit, mit Geborgenheit, Freiheit und Freiheitsentzug. Die beengten Räume der Bedürfnisanstalt, als Raum für Kunst und Kultur selbst ein Refugium, werden zur Bühne einer künstlerischen Recherche.
+
+Julius Wagner, geboren 1990 in Schwerin, lebt und arbeitet als freier Künstler und Illustrator in Leipzig.
+
+instagram: internetpraesens
+www.julius-wagner.de
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- green-eyes.jpg

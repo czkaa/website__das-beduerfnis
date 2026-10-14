@@ -1,0 +1,27 @@
+title: Custom
+
+options:
+  changeStatus: true
+
+columns:
+  - width: 1/1
+    fields:
+      main:
+        type: layout
+        layouts:
+          - "1/1"
+          - "1/2, 1/2"
+        fieldsets:
+          - customDownload
+          - customText
+          - customHeadline
+          - customImages
+          - customWhitespace
+          - customHighlight
+          - customLogos
+          - customCurrentEvents
+          - customCurrentExhibition
+          - customSlideshow
+          - customArtist
+          - customVideo
+          - customNewsletter

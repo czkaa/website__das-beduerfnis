@@ -1,0 +1,50 @@
+Title: Nora Keilig und Lina Gräf
+
+----
+
+Start: 2021-10-21
+
+----
+
+End: 2021-11-07
+
+----
+
+Color: #FFB400
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Nora Keilig","align":"left"},{"text":"und Lina Gr\u00e4f","align":"left"}]},"id":"3bcb79d0-157e-4d4e-bd87-4a1cef62f8da","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Gigantes
+
+----
+
+Category: Zeichnung und Collage
+
+----
+
+Description: Nora Keilig und Lina Gräf begeben sich in einen visuellen Dialog aus Formen, Linien, Formaten und Materialien. Ein Austausch in analogen Collagen.
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- giga_quer.jpg
+
+----
+
+Headline:
+
+- 
+  textcontent: Nora Keilig
+  position: left
+- 
+  textcontent: Lina Gräf
+  position: left

@@ -1,0 +1,7 @@
+name: Images
+
+fields:
+  customImages:
+    label: Bilder
+    type: files
+    layout: cards

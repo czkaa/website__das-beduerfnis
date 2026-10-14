@@ -1,0 +1,1 @@
+import{u as e}from"./index.4001b8f8.js";import{h as s,o as t,f as i,i as r}from"./vendor.5fbeda5f.js";const f={setup:()=>({page:e()})},a={error:"",class:"fixed h-full w-full flex justify-center items-center"};f.render=function(e,f,n,o,l,c){const d=s("BasicHeadline");return t(),i("div",a,[r(d,{text:"404<br>Diese Seite exisitiert nicht",size:"lg"})])};export{f as default};

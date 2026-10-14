@@ -1,0 +1,19 @@
+.k-block-type-customHighlight {
+    cursor: pointer;
+}
+
+.k-block-type-customHighlight .bottom{
+    font-size: 60px;
+    text-align: right;
+}
+
+.k-block-type-customHighlight .center {
+    font-size: 300px;
+    text-align: center;
+    letter-spacing: -0.05em;
+}
+
+.k-block-type-customHighlight .top {
+    font-size: 60px;
+    text-align: left;
+}

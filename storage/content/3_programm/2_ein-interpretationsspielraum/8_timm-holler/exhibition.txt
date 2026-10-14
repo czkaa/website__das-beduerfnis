@@ -1,0 +1,59 @@
+Title: Timm Höller
+
+----
+
+Start: 2021-09-23
+
+----
+
+End: 2021-10-10
+
+----
+
+Color: #A0D400
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Timm","align":"left"},{"text":"H\u00f6ller","align":"left"}]},"id":"24b922ae-324a-41a4-87be-b7f03599083d","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: Collecting Egos
+
+----
+
+Category: Lecture und Performance
+
+----
+
+Description:
+
+ekzentrische selbstsatire,
+mystische styleszenarien,
+dokumentarische pseudoscience
+hilflose Körperhülle
+
+die viergespinstige ICH-Aufsplittung auf wenigen Quadratmetern.
+WER SIND WIhR? Was sehen wirr vor lauter Ichs im DU. 
+Das Bedürr-phnis sich vom ICH erfolglos abzugrenzen.
+
+----
+
+Isleft: false
+
+----
+
+Gallery:
+
+- photo_2022-06-01-10.51.39.jpeg
+
+----
+
+Headline:
+
+- 
+  textcontent: 'Timm '
+  position: right
+- 
+  textcontent: Höller
+  position: center

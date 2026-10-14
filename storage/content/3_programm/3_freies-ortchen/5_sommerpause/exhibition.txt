@@ -1,0 +1,39 @@
+Title: Sommerpause
+
+----
+
+Start: 2023-08-01
+
+----
+
+End: 2023-08-31
+
+----
+
+Color: #11FF00
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Sommer","align":"left"},{"text":"Pause","align":"left"}]},"id":"d0847849-0e21-493f-8311-258e100eaa5c","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: 
+
+----
+
+Category: 
+
+----
+
+Description: 
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- op.jpg

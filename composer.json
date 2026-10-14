@@ -1,0 +1,18 @@
+{
+  "require": {
+    "php": ">=7.4.0",
+    "getkirby/cms": "^3.0",
+    "johannschopplich/kirby-extended": "^2.0",
+    "timoetting/kirby-color": "^1.0",
+    "sylvainjule/pagetable": "^1.1"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "allow-plugins": {
+      "getkirby/composer-installer": true
+    }
+  },
+  "extra": {
+    "kirby-cms-path": false
+  }
+}

@@ -1,0 +1,9 @@
+name: Video
+
+fields:
+  customVideo:
+    label: Video
+    type: files
+    layout: cards
+    multiple: false
+    accept: video/*

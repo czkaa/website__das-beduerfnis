@@ -1,0 +1,94 @@
+{
+  "index.js": {
+    "file": "assets/index.4001b8f8.js",
+    "src": "index.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.5fbeda5f.js"
+    ],
+    "dynamicImports": [
+      "views/Columns.vue",
+      "views/Default.vue",
+      "views/Freischalten.vue",
+      "views/Home.vue",
+      "views/Year.vue"
+    ],
+    "css": [
+      "assets/index.96596ae1.css"
+    ]
+  },
+  "_vendor.5fbeda5f.js": {
+    "file": "assets/vendor.5fbeda5f.js"
+  },
+  "views/Columns.vue": {
+    "file": "assets/Columns.a15b21a3.js",
+    "src": "views/Columns.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.js",
+      "_BlockIndex.86138d62.js",
+      "_vendor.5fbeda5f.js"
+    ]
+  },
+  "_BlockIndex.86138d62.js": {
+    "file": "assets/BlockIndex.86138d62.js",
+    "imports": [
+      "index.js",
+      "_vendor.5fbeda5f.js"
+    ],
+    "css": [
+      "assets/BlockIndex.7b921a46.css"
+    ]
+  },
+  "views/Default.vue": {
+    "file": "assets/Default.2731180f.js",
+    "src": "views/Default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.js",
+      "_vendor.5fbeda5f.js"
+    ]
+  },
+  "views/Freischalten.vue": {
+    "file": "assets/Freischalten.9ea15d62.js",
+    "src": "views/Freischalten.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_jquery.43f8a942.js",
+      "index.js",
+      "_vendor.5fbeda5f.js"
+    ]
+  },
+  "_jquery.43f8a942.js": {
+    "file": "assets/jquery.43f8a942.js",
+    "imports": [
+      "_vendor.5fbeda5f.js"
+    ]
+  },
+  "views/Home.vue": {
+    "file": "assets/Home.b361dac9.js",
+    "src": "views/Home.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.js",
+      "_jquery.43f8a942.js",
+      "_vendor.5fbeda5f.js"
+    ],
+    "css": [
+      "assets/Home.964962bb.css"
+    ]
+  },
+  "views/Year.vue": {
+    "file": "assets/Year.33b7c09f.js",
+    "src": "views/Year.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.js",
+      "_BlockIndex.86138d62.js",
+      "_vendor.5fbeda5f.js"
+    ],
+    "css": [
+      "assets/Year.8695dff0.css"
+    ]
+  }
+}

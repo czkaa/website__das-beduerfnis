@@ -1,0 +1,46 @@
+Title: Sebastian Leiss
+
+----
+
+Start: 2024-05-08
+
+----
+
+End: 2024-08-19
+
+----
+
+Color: #FFBAF3
+
+----
+
+Isevent: false
+
+----
+
+Headlineblocks: [{"content":{"size":"lg","headline":[{"text":"Sebastian","align":"left"},{"text":"Leiss","align":"left"}]},"id":"833e3083-48df-4c79-a27a-5f9b85c87216","isHidden":false,"type":"customHeadline"}]
+
+----
+
+Subtitle: liquid tempus studies
+
+----
+
+Category: Fotografie
+
+----
+
+Description:
+
+Fundstücke wie weggeworfenes sind meist unerschöpfliche Ressource.
+Bei den Fundstücken für die Arbeit „liquid Tempus studies“ handelt es sich Halle fand. Er untersuchte ihre Oberflächen, die Geschichten von Verwitterung und ehemaligen Gebrauch zeugen.
+
+----
+
+Isleft: 
+
+----
+
+Gallery:
+
+- plastik.orange.3.jpg

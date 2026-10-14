@@ -1,0 +1,17 @@
+.k-block-type-customLogos {
+  cursor: pointer;
+}
+
+.k-block-type-customLogos img {
+  width: 100px;
+  float: left;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+}
